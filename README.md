@@ -65,7 +65,7 @@ cat /etc/hostname
 ### NAME: Dinesh kumar B
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/31760086-305c-40af-9894-c12f799ae6e2)
+![image](https://github.com/user-attachments/assets/fce2f503-7028-4b24-a341-e9da8f02d63a)
 
 ## RESULT
  Successfully installed CentOS on a virtual machine using VirtualBox or VMware, providing a fully functional CentOS environment for testing and development.
